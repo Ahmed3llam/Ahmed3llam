@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ahmed Allam from Egypt<br>🔭 I have completed the ITI Scholarship.<br>🌱 I have learned Angular and .NET Framework.<br>💬 Ask me anything related to .NET full-stack development.<br>👨‍💻 All of my projects are available at github.com/Ahmed3llam<br>📫 How to reach me: ahmedmallam239@gmail.com.<br>⚡ Fun fact: I think I am funny.</p>
+<p align="left">I'm Ahmed Allam from Egypt<br>🔭 I have completed the ITI Scholarship.<br>🌱 I have learned Angular and .NET Framework.<br>💬 Ask me anything related to .NET full-stack development.<br>👨‍💻 All of my projects are available at github.com/Ahmed3llam<br>📫 How to reach me: ahmedmallam239@gmail.com.</p>
 
 ###
 
